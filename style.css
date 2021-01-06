@@ -1,0 +1,132 @@
+*{margin: 0px;padding: 0px;}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    font-weight: bold;
+}
+#heading_1{
+    color: #363958;
+}
+#heading_2{
+    color:#FF8367;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    font-weight: bold;
+}
+#heading_3{
+    color: #363958;
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #3E3E3E;
+    margin-bottom: 20px;
+}
+section{
+    height: 500px;
+    padding-bottom:150px ;
+}
+
+.half_width{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+.half_width img{
+        width: 100%;
+    }
+
+.link_button{
+        text-decoration: none;
+        background-color: tomato;
+        padding: 10px 30px;
+        border-radius: 10px;
+        font-weight: 700;
+        color: white;
+}
+.highlight_one{
+    color:#F46060 ;
+}
+.highlight_two{
+    color: #363958;
+
+}
+.experience_area h2{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.experience_area{
+    background-color: #F8F9FC;
+}
+.work_experience{
+    width: 28%;
+    margin-left: 2%;
+    padding-left: 2%;
+    padding-top: 2%;
+
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 70%;
+    background-color: white;
+}
+.work_experience h4{
+ font-family: 'Roboto', sans-serif;
+ font-weight: bold;
+ font-size: 24px;
+ color: #363958;
+ padding-top: 7px;
+ padding-bottom: 7px;
+}
+.work_experience p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #6C6C6C;
+   }
+   .box{
+       background-image: url(img/inquary.png);
+       background-size: cover;
+       width: 906px;
+       height: 225px;
+       background-position: right;
+       margin: 0 auto;
+   }
+   .box h1{
+       padding-left: 50px;
+       padding-top: 75px;
+       font-family: 'Bebas Neue', cursive;
+       font-size: 64px;
+       font-weight: bold;
+       color: white;
+   }
+   .chat{
+       margin-right: 35px;
+       padding-bottom: 50px;
+       float: right;
+   }
+  .footer p{
+      text-align: center;
+      padding-top: 20px;
+     
+  }
+  .footer p:last-child{
+      padding-top: 0;
+  }
+  #stay{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 24px;
+    color: #696871;
+
+  }
+
+  #hello{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #363958;
+   }
+
+  
